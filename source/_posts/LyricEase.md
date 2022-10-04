@@ -1,7 +1,7 @@
 ---
 title: LyricEase：简洁的第三方网易云音乐客户端【补档】
 date: 2022/10/03 13:01:00
-description: LyricEase，简洁的第三方网易云音乐客户端
+description: 简洁的第三方网易云音乐 UWP 客户端
 ---
 
 LyricEase 是一款第三方网易云音乐 UWP 客户端，曾在 Github 上开源（已下架）、Microsoft Store 上供用户免费使用（已下架）。
@@ -32,10 +32,15 @@ LyricEase 是一款第三方网易云音乐 UWP 客户端，曾在 Github 上开
 
 ## 下载地址
 
-- 官方（APP Center）【最新版本】[下载地址](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)，进入后稍等加载，然后点击蓝色按钮 **DOWNLOAD** 下载
-- 好物荟萃镜像【v0.11.125 (20220815)】[下载地址](https://imymuyang-my.sharepoint.com/:u:/g/personal/i_xn--ouw410g_ml/EWGk-TfVEcRGniW8i9WlSpABwtmeBPtSKzxtrhQtQhVdRg?e=PPsYid)，密码为 **xn--5us.gq**，输入密码后可在线查看压缩包，电脑版左上角第三个按钮有中文“下载”字样
+{% grid  下载地址 %}
+官方（最新版本）：[APP Center](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
+进入后稍等加载，然后点击蓝色按钮 **DOWNLOAD** 下载。
+
+好物荟萃镜像【v0.11.125 (20220815)】：[Onedrive](https://imymuyang-my.sharepoint.com/:u:/g/personal/i_xn--ouw410g_ml/EWGk-TfVEcRGniW8i9WlSpABwtmeBPtSKzxtrhQtQhVdRg?e=PPsYid)
+密码为{% psw xn--5us.gq %}，输入密码后可在线查看压缩包，电脑版左上角第三个按钮有中文“下载”字样。
 
 MD5：a2737e03df62097d6dc60d48a157feb4
+{% endgrid %}
 
 ## 安装问题解答
 

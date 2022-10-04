@@ -1,6 +1,7 @@
 ---
 title: 验证码小工具：与烦人的验证码说再见
 date: 2022/10/03 13:01:00
+description: 两款 Google ReCAPTCHA 小工具
 ---
 
 Buster、Noptcha 是两款全平台浏览器插件，可自动解决验证码，为用户省心省时。
@@ -51,23 +52,24 @@ Buster 同时提供了详细教程与模拟用户操作的客户端，参见 [Gi
 
 ## 下载地址
 
-### Buster
-
-- Github（官方）：[下载地址][2]
-- Chrome 网上应用店（大陆用户无法访问）：[商店页面][3]
-- Firefox 扩展商店：[商店页面][4]
-- Edge 扩展商店：[商店页面][5]
-- Opera 扩展商店：[商店页面][6]
+{% grid  Buster%}
+- Github（官方）：[下载地址](https://github.com/dessant/buster/releases/)
+- Chrome 网上应用店（大陆用户无法访问）：[商店页面](https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl)
+- Firefox 扩展商店：[商店页面](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
+- Edge 扩展商店：[商店页面](https://microsoftedge.microsoft.com/addons/detail/admkpobhocmdideidcndkfaeffadipkc)
+- Opera 扩展商店：[商店页面](https://addons.opera.com/en/extensions/details/buster-captcha-solver-for-humans/)
 
 （由于资源过多，不提供 MD5。对应浏览器直接在商店下载可解决一切问题。）
+{% endgrid %}
 
-### Noptcha
-
-- Chrome 网上应用店（大陆用户无法访问）：[商店页面【不推荐从这里下载】][7]
-- Firefox 扩展商店：[商店页面【不推荐从这里下载】][8]
-- Github（第三方，去除后门版本）：[下载地址][9]
+{% grid  Noptcha%}
+- Chrome 网上应用店（大陆用户无法访问）：[商店页面【不推荐从这里下载】](https://chrome.google.com/webstore/detail/dknlfmjaanfblgfdfebhijalfmhmjjjo)
+- Firefox 扩展商店：[商店页面【不推荐从这里下载】](https://addons.mozilla.org/zh-CN/firefox/addon/noptcha/)
+- Github（第三方，去除后门版本）：[下载地址](https://github.com/Sqaaakoi/noptcha-patch/releases/)
 
 （由于资源过多，不提供 MD5。强烈建议下载去除后门版本。）
+{% endgrid %}
+
 
 
   [1]: https://github.com/dessant/buster
